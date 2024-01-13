@@ -1,0 +1,35 @@
+.main{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.face{
+    font-size: 120px;
+}
+.submit{
+    width: 80px;
+    height: 30px;
+    border-radius: 8px;
+    border-color: #2B58BC;
+    background-color: #2B58BC;
+    color: white;
+    text-transform: uppercase;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.select{
+    width: 40px;
+    height: 30px;
+    border-radius: 8px;
+    background-color: white;
+}
+.yellow{
+    background-color: #ffcc00;
+}
+
+.orange{
+    background-color: #ff9900;
+}
